@@ -15,4 +15,3 @@ Web application that shows a list of modules that you can learn based on the typ
 
 - Pull the project to a local repository.
 - "Composer install/update".
-- Re-migrate the database.
