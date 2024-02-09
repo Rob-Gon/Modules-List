@@ -10,6 +10,9 @@
 ## About The Project
 
 Web application that shows a list of modules that you can learn based on the type of user you've loged in and the access of your profile.
+- AJAX Login
+- AJAX Logout
+- Modules data given by XML
 
 ## How To Make It Work
 
