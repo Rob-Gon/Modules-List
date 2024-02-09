@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuracion>
+    <usuarios>
+        <usuario>
+            <alias>admin</alias>
+            <clave>1234</clave>
+            <perfil>Admin</perfil>
+            <permisos>Lectura</permisos>
+            <permisos>Creacion</permisos>
+            <permisos>Edicion</permisos>
+            <permisos>Eliminacion</permisos>
+        </usuario>
+        <usuario>
+            <alias>cliente</alias>
+            <clave>1234</clave>
+            <perfil>Cliente</perfil>
+            <permisos>Lectura</permisos>
+            <permisos>Creacion</permisos>
+            <permisos>Edicion</permisos>
+            <permisos>Eliminacion</permisos>
+        </usuario>
+        <usuario>
+            <alias>gestor</alias>
+            <clave>1234</clave>
+            <perfil>Gestor</perfil>
+            <permisos>Lectura</permisos>
+            <permisos>Edicion</permisos>
+            <permisos>Eliminacion</permisos>
+        </usuario>
+        <usuario>
+            <alias>gestor2</alias>
+            <clave>1234</clave>
+            <perfil>Gestor</perfil>
+            <permisos>Lectura</permisos>
+        </usuario>
+    </usuarios>
+</configuracion>
